@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Hindi Channel" 9xm
+#EXTINF:-1 tvg-name="9xm" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/04/22/9xm_new.jpg?itok=dQoxlZHD" group-title="Hindi Channel" 9xm
 http://bdiptv.net:8082/bdip1/tracks-9,2/index.m3u8
 #EXTINF:-1 tvg-name="Masti Music" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Channel" Masti Music
 http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8
